@@ -1,2 +1,1 @@
-# speaker-bot
-Discord.js bot
+# Voice-Bot
